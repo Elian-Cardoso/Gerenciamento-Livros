@@ -9,6 +9,3 @@ Permite criar uma Livraria que armazena vários livros.
 Permite reservar e devolver livros, alterando sua disponibilidade.
 
 Lista todos os livros cadastrados e também apenas os livros disponíveis para empréstimo.
-
-🎯 Para que serve este projeto?
-Este é um exercício inicial para quem está começando a programar em Java e quer entender na prática como usar classes, métodos e arrays simples.
